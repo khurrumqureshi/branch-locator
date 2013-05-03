@@ -1,5 +1,0 @@
-
-
-exports.setup = function(app) {
-
-}

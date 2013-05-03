@@ -29,7 +29,6 @@ console.log("Listening on " + config.main.port);
 
 function configureControllers(app) {
     [
-        'bank',
         'branch'
     ].map(function(controllerName) {
             var controller = require('./controllers/' + controllerName);
