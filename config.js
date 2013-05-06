@@ -11,3 +11,5 @@
  };
 
 module.exports.projectDirectory = __dirname;
+
+module.exports.deploymentUrl = "http://branch-locator.herokuapp.com/";

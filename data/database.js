@@ -1,3 +1,5 @@
+var config = require('../config');
+
 module.exports.database = {
     name:"Standard Chartered Singapore",
     address:"7 Changi Business Park Crescent Singapore 486028",
@@ -15,6 +17,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
+            image:config.deploymentUrl+"api/branch/image/1.jpg",
             location:{
                 lat:1.300614,
                 long:103.845104
@@ -41,6 +44,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
+            image:config.deploymentUrl+"api/branch/image/2.jpg",
             location:{
                 lat:1.302589,
                 long:103.836118
@@ -67,6 +71,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
+            image:config.deploymentUrl+"api/branch/image/3.jpg",
             location:{
                 lat:1.353631,
                 long:103.834380
@@ -93,6 +98,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:false,
+            image:config.deploymentUrl+"api/branch/image/4.jpg",
             location:{
                 lat:1.363814,
                 long:103.865464
@@ -119,6 +125,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:false,
+            image:config.deploymentUrl+"api/branch/image/5.jpg",
             location:{
                 lat:1.285539,
                 long:103.851667
@@ -145,6 +152,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
+            image:config.deploymentUrl+"api/branch/image/6.jpg",
             location:{
                 lat:1.352323,
                 long:103.942678
@@ -171,6 +179,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
+            image:config.deploymentUrl+"api/branch/image/7.jpg",
             location:{
                 lat:1.302638,
                 long:103.905569
@@ -197,6 +206,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
+            image:config.deploymentUrl+"api/branch/image/8.jpg",
             location:{
                 lat:1.285539,
                 long:103.851667
@@ -223,6 +233,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
+            image:config.deploymentUrl+"api/branch/image/9.jpg",
             location:{
                 lat:1.440232,
                 long:103.770550
@@ -249,6 +260,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
+            image:config.deploymentUrl+"api/branch/image/10.jpg",
             location:{
                 lat:1.302589,
                 long:103.836118
