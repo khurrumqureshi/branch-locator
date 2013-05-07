@@ -17,7 +17,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:config.deploymentUrl+"api/branch/image/1.png",
+            image:"http://upload.wikimedia.org/wikipedia/commons/b/be/Standard_Chartered_branch_in_Mong_Kok.jpg",
             location:{
                 lat:1.300614,
                 long:103.845104
@@ -44,7 +44,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:config.deploymentUrl+"api/branch/image/2.png",
+            image:"http://thefinancialbrand.com/wp-content/uploads/2011/02/standard_chartered_flagship_greeter_concierge.jpg",
             location:{
                 lat:1.302589,
                 long:103.836118
@@ -71,7 +71,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:config.deploymentUrl+"api/branch/image/3.png",
+            image:"http://upload.wikimedia.org/wikipedia/commons/7/71/HK_Happy_Valley_King_Kwong_Street_Standard_Chartered_Bank_Branch_n_Car_in_white.JPG",
             location:{
                 lat:1.353631,
                 long:103.834380
@@ -98,7 +98,7 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:false,
-            image:config.deploymentUrl+"api/branch/image/4.png",
+            image:"http://in2eastafrica.net/wp-content/uploads/2013/01/Standard-Chartered-ATM.jpg",
             location:{
                 lat:1.363814,
                 long:103.865464
@@ -125,23 +125,47 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:false,
-            image:config.deploymentUrl+"api/branch/image/5.png",
+            image:"http://newsimg.bbc.co.uk/media/images/41493000/jpg/_41493370_stanchart_afp.jpg",
             location:{
                 lat:1.285539,
                 long:103.851667
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
@@ -152,23 +176,47 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:config.deploymentUrl+"api/branch/image/6.png",
+            image:"http://topnews.ae/images/Standard-Chartered_2.jpg",
             location:{
                 lat:1.352323,
                 long:103.942678
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
@@ -179,23 +227,47 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:config.deploymentUrl+"api/branch/image/7.png",
+            image:"http://media.glassdoor.com/m/226853/standard-chartered-bank-office.jpg",
             location:{
                 lat:1.302638,
                 long:103.905569
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
@@ -206,23 +278,47 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:config.deploymentUrl+"api/branch/image/8.png",
+            image:"http://www.checkcebu.com/wp-content/uploads/2012/09/Standard-Chartered-Bank-Cebu-Branch12.jpg",
             location:{
                 lat:1.285539,
                 long:103.851667
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
@@ -233,23 +329,47 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:config.deploymentUrl+"api/branch/image/9.png",
+            image:"http://mw2.google.com/mw-panoramio/photos/medium/32348294.jpg",
             location:{
                 lat:1.440232,
                 long:103.770550
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
@@ -260,23 +380,47 @@ module.exports.database = {
             tel:"1800 747 7000",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:config.deploymentUrl+"api/branch/image/10.png",
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
             location:{
                 lat:1.302589,
                 long:103.836118
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
