@@ -24,16 +24,40 @@ module.exports.database = {
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
@@ -51,16 +75,40 @@ module.exports.database = {
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
@@ -78,16 +126,40 @@ module.exports.database = {
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
@@ -105,16 +177,40 @@ module.exports.database = {
             },
             contacts:[
                 {
-                    name:"Yi Ling Joseph",
+                    name:"Yi Ling",
                     designation:"Branch Manager",
                     tel:"1800 747 7000",
                     email:"yi@scb.com.sg"
                 },
                 {
-                    name:"Jasmine Darryl",
+                    name:"Jasmine",
                     designation:"Customer Sales Representative",
                     tel:"1800 747 7000",
                     email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
                 }
             ]
 
