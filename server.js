@@ -1,5 +1,7 @@
 var express = require('express'),
-    config = require('./config');
+    config = require('./config'),
+    database = require('./data/database'),
+    util = require('./lib/util');
 var http = require('http');
 
 
@@ -35,11 +37,11 @@ io.configure(function () {
     io.set("polling duration", 10);
 });
 io.sockets.on('connection', function (socket) {
-    socket.emit('news', {time: new Date()});
+    socket.emit('news', database.news[util.getRandomInt(0,5)]);
 });
 
 setInterval(function(){
-    io.sockets.emit('news', {time: new Date()} )
+    io.sockets.emit('news', database.news[util.getRandomInt(0,5)] )
 },5000);
 
 
