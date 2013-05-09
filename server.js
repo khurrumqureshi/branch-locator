@@ -42,7 +42,7 @@ io.sockets.on('connection', function (socket) {
 
 setInterval(function(){
     io.sockets.emit('news', database.news[util.getRandomInt(0,4)] )
-},5000);
+},15000);
 
 
 function configureControllers(app) {
