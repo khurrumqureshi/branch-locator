@@ -37,11 +37,11 @@ io.configure(function () {
     io.set("polling duration", 10);
 });
 io.sockets.on('connection', function (socket) {
-    socket.emit('news', database.news[util.getRandomInt(0,5)]);
+    socket.emit('news', database.news[util.getRandomInt(0,4)]);
 });
 
 setInterval(function(){
-    io.sockets.emit('news', database.news[util.getRandomInt(0,5)] )
+    io.sockets.emit('news', database.news[util.getRandomInt(0,4)] )
 },5000);
 
 
