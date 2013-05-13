@@ -770,6 +770,761 @@ module.exports.database = {
                 }
             ]
 
+        },
+        {
+            name:"Abdullah Haroon Road Branch",
+            address:"Snow White Center, Opposite Jabeez Hotel , Main Abdullah Haroon Road",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.pk",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:24.848841,
+                long:67.030965
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+
+        },
+        {
+            name:"Garden West",
+            address:"Plot # 281, Green Garden Building, Nishter Road, Garden West",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.pk",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:24.881114,
+                long:67.029804
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+
+        },
+        {
+            name:"FB Area Branch Block-6",
+            address:"Property No. C-10 Block 6 F.B.Area",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.pk",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:24.884217,
+                long:67.065954
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+
+        },
+        {
+            name:"Model Colony",
+            address:"N-55, Tina Square, Deh Mehran, Tappo Malir, Karachi East Model Colony",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.pk",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:24.904577,
+                long:67.187405
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+
+        },
+        {
+            name:"FB Area Branch",
+            address:"CA-2, Block 21, KDA Scheme No.16, F.B.Area, Rashid Minhas Road, Karachi.",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.pk",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:24.936077,
+                long:67.085263
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+        },
+        {
+            name:"Standard Chartered Bank (China) Limited Shenzhen Branch",
+            address:"11-14F & No.101F & 131, Ground Floor,KK Mall, No. 5016 Shennan East Road, Luohu District, Shenzhen,518001, P.R.C",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.cn",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:22.547049,
+                long:114.120153
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+
+        },
+        {
+            name:"Standard Chartered Bank (China) Limited Guangzhou Branch",
+            address:"Unit 104, G/F and 10/F, Hejing International Finance Place, No. 8 Huaxia Road, Guangzhou, Guangdong Province, 510623",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.cn",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:23.123543,
+                long:113.324301
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+        },
+        {
+            name:"Standard Chartered Bank (China) Limited Dalian Branch",
+            address:"No.2-2,2/F, Zhongshan Square, Zhongshan District, Dalian, Liaoning Province, 116001",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.cn",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:38.921519,
+                long:121.643924
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+        },
+        {
+            name:"Standard Chartered Bank (China) Limited Qingdao Branch",
+            address:"Unit A-D & F-H, 35/F, Sunshine Plaza, No. 40, Hong Kong Middle Road, Qingdao, Shandong Province, 266071",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.cn",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:36.066235,
+                long:120.386776
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
+        },
+        {
+            name:"Standard Chartered Bank (China) Limited Ningbo Branch",
+            address:"1/F, No. 158, Marriot Center,& Room1802,No.168, Marriot Center, He Yi Road,Haishu District Ningbo, Zhejiang Province, 315010",
+            tel:"1800 747 7000",
+            email:"info@standardchartered.com.cn",
+            operating_hours:"Mon to Fri: 11am to 7pm",
+            atm_available:true,
+            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            location:{
+                lat:29.859772,
+                long:121.551066
+            },
+            contacts:[
+                {
+                    name:"Yi Ling",
+                    designation:"Branch Manager",
+                    tel:"1800 747 7000",
+                    email:"yi@scb.com.sg"
+                },
+                {
+                    name:"Jasmine",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jasmine@scb.com.sg"
+                },
+                {
+                    name:"Jonathan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"jonathan@scb.com.sg"
+                },
+                {
+                    name:"Wei Xuan",
+                    designation:"Customer Sales Representative",
+                    tel:"1800 747 7000",
+                    email:"wei@scb.com.sg"
+                },
+                {
+                    name:"Vanessa",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"vanessa@scb.com.sg"
+                },
+                {
+                    name:"Mark Jedidiah",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"mark@scb.com.sg"
+                },
+                {
+                    name:"Samuel",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"samuel@scb.com.sg"
+                },
+                {
+                    name:"Dorothy",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"dorothy@scb.com.sg"
+                },
+                {
+                    name:"Alexander",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"alexander@scb.com.sg"
+                },
+                {
+                    name:"Xin min",
+                    designation:"Teller",
+                    tel:"1800 747 7000",
+                    email:"xin@scb.com.sg"
+                }
+            ]
         }
     ]
 }
