@@ -18,3 +18,5 @@ module.exports.defaultLocation = {
     lat:1.300614,
     long:103.845104
 }
+
+module.exports.googleApiKey = "AIzaSyDXwKO7CDJhA7P1NDpb35vYb2_qdp9MTSs"
