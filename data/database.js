@@ -854,7 +854,7 @@ module.exports.database = {
             email:"info@standardchartered.com.pk",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            image:"http://thefinancialbrand.com/wp-content/uploads/2011/02/standard_chartered_flagship_greeter_concierge.jpg",
             location:{
                 lat:24.881114,
                 long:67.029804
@@ -930,7 +930,7 @@ module.exports.database = {
             email:"info@standardchartered.com.pk",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            image:"http://upload.wikimedia.org/wikipedia/commons/7/71/HK_Happy_Valley_King_Kwong_Street_Standard_Chartered_Bank_Branch_n_Car_in_white.JPG",
             location:{
                 lat:24.884217,
                 long:67.065954
@@ -1006,7 +1006,7 @@ module.exports.database = {
             email:"info@standardchartered.com.pk",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            image:"http://in2eastafrica.net/wp-content/uploads/2013/01/Standard-Chartered-ATM.jpg",
             location:{
                 lat:24.904577,
                 long:67.187405
@@ -1082,7 +1082,7 @@ module.exports.database = {
             email:"info@standardchartered.com.pk",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            image:"http://newsimg.bbc.co.uk/media/images/41493000/jpg/_41493370_stanchart_afp.jpg",
             location:{
                 lat:24.936077,
                 long:67.085263
@@ -1233,7 +1233,7 @@ module.exports.database = {
             email:"info@standardchartered.com.cn",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            image:"http://thefinancialbrand.com/wp-content/uploads/2011/02/standard_chartered_flagship_greeter_concierge.jpg",
             location:{
                 lat:23.123543,
                 long:113.324301
@@ -1308,7 +1308,7 @@ module.exports.database = {
             email:"info@standardchartered.com.cn",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            image:"http://upload.wikimedia.org/wikipedia/commons/7/71/HK_Happy_Valley_King_Kwong_Street_Standard_Chartered_Bank_Branch_n_Car_in_white.JPG",
             location:{
                 lat:38.921519,
                 long:121.643924
@@ -1383,7 +1383,7 @@ module.exports.database = {
             email:"info@standardchartered.com.cn",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            image:"http://in2eastafrica.net/wp-content/uploads/2013/01/Standard-Chartered-ATM.jpg",
             location:{
                 lat:36.066235,
                 long:120.386776
@@ -1458,7 +1458,7 @@ module.exports.database = {
             email:"info@standardchartered.com.cn",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2009/07/07/Photos/6d246243-b16a-48cb-9982-09a2c3f6bda2.jpg",
+            image:"http://newsimg.bbc.co.uk/media/images/41493000/jpg/_41493370_stanchart_afp.jpg",
             location:{
                 lat:29.859772,
                 long:121.551066
