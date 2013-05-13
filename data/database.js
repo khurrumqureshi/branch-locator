@@ -18,7 +18,7 @@ module.exports.database = {
             email:"info@standardchartered.com.sg",
             operating_hours:"Mon to Fri: 11am to 7pm",
             atm_available:true,
-            image:"http://upload.wikimedia.org/wikipedia/commons/b/be/Standard_Chartered_branch_in_Mong_Kok.jpg",
+            image:"http://maps.googleapis.com/maps/api/staticmap?center=1.300614,103.845104&zoom=15&size=600x300&maptype=roadmap&markers=color:green%7Clabel:SCB%7C1.300614,103.845104&sensor=false&key=AIzaSyDXwKO7CDJhA7P1NDpb35vYb2_qdp9MTSs",
             location:{
                 lat:1.300614,
                 long:103.845104
